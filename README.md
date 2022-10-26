@@ -15,7 +15,7 @@ init({
 Default settings
 ```js
 {
-    codePath: '../src', //Путь с папке с кодом
+    codePath: '../src', //Путь к папке с кодом
     include: { //Включения
         folders: [], //Папки ['entities']
         expansions: ['js', 'ts', 'sass', 'scss', 'css', 'html', 'pug', 'json', 'svelte'] //Расширения
