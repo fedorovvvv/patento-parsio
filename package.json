@@ -1,9 +1,8 @@
 {
-    "name": "patent_parser",
+    "name": "patento-parsio",
     "version": "0.2.1",
-    "description": "patent parser",
-    "author": "Nikita",
-    "private": true,
+    "description": "Copy your code for patents",
+    "author": "Nikita Fedorov <nikitafedorov7@yandex.ru>",
     "type": "module"
   }
   
