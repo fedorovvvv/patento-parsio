@@ -5,14 +5,14 @@
 node index.js
 ```
 
-### Настройка в index.js
+### Settings in index.js
 ```js
 init({
     fileName: 'patent.txt'
 })
 ```
 
-Дефолтные настройки
+Default settings
 ```js
 {
     codePath: '../src', //Путь с папке с кодом
