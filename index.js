@@ -40,7 +40,7 @@ const file = {
         })
     },
     add(path = '',text = '') {
-        fs.appendFile(this.name, template(path, text), (err) => {
+        fs.appendFile(this.name, options.template(path, text), (err) => {
             if(err) throw err;
         })
     }
