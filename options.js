@@ -1,6 +1,7 @@
 export const options = {
     codePath: '../src',
     include: {
+        folders: [],
         expansions: ['js', 'ts', 'sass', 'scss', 'css', 'html', 'pug', 'svelte']
     },
     exclude: {

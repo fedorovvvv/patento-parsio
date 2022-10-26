@@ -1,0 +1,9 @@
+{
+    "name": "patent_parser",
+    "version": "0.2.1",
+    "description": "patent parser",
+    "author": "Nikita",
+    "private": true,
+    "type": "module"
+  }
+  
