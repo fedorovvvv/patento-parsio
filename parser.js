@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path'
 import defaultOptions from './options.js';
 
-const options = defaultOptions
+let options = defaultOptions
 
 export const file = {
     delete() {
